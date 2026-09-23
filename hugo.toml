@@ -1,0 +1,25 @@
+baseURL = 'https://mitchcambareri.com/'
+languageCode = 'en-us'
+title = 'Mitch Cambareri'
+theme = 'PaperMod'
+
+[params.profileMode]
+    enabled = true
+    title = "Mitch's Notebook"
+    subtitle = "Infrastructure management, home lab configs, and notes."
+    imageUrl = "https://media.licdn.com/dms/image/v2/C4E03AQHC7vvbzBAM_A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1608582492680?e=1792022400&v=beta&t=N7X8QLt9vGe1fLQlQZbQw-hIbEJwrmfBvB1KERmpB2Q"
+    imageWidth = 120
+    imageHeight = 120
+
+[[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/mitchcambareri/"
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/mitch84208"
+[[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/mitchrox4eva"
+[[params.socialIcons]]
+    name = "facebook"
+    url = "https://www.facebook.com/mitch.cambareri"
