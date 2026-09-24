@@ -8,7 +8,7 @@ publishDir = "docs"
     enabled = true
     title = "Mitch's Notebook"
     subtitle = "Infrastructure management, home lab configs, and notes."
-    imageUrl = "https://media.licdn.com/dms/image/v2/C4E03AQHC7vvbzBAM_A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1608582492680?e=1792022400&v=beta&t=N7X8QLt9vGe1fLQlQZbQw-hIbEJwrmfBvB1KERmpB2Q"
+    imageUrl = "na"
     imageWidth = 120
     imageHeight = 120
 
