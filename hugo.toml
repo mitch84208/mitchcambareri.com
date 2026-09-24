@@ -1,4 +1,5 @@
 baseURL = 'https://mitchcambareri.com/'
+publishDir = "docs"
 languageCode = 'en-us'
 title = 'Mitch Cambareri'
 theme = 'PaperMod'
